@@ -1,0 +1,148 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2025-01-01",
+  "categories": [
+    {
+      "name": "News - UK",
+      "icon": "newspaper",
+      "feeds": [
+        {
+          "title": "The Guardian - UK",
+          "url": "https://www.theguardian.com/uk/rss",
+          "description": "Latest UK news from The Guardian"
+        },
+        {
+          "title": "BBC News",
+          "url": "https://feeds.bbci.co.uk/news/rss.xml",
+          "description": "BBC News - World"
+        },
+        {
+          "title": "Sky News",
+          "url": "https://feeds.skynews.com/feeds/rss/home.xml",
+          "description": "Sky News - Top Stories"
+        }
+      ]
+    },
+    {
+      "name": "News - US",
+      "icon": "newspaper",
+      "feeds": [
+        {
+          "title": "AP News",
+          "url": "https://feedx.net/rss/ap.xml",
+          "description": "Associated Press Top Headlines"
+        },
+        {
+          "title": "NPR News",
+          "url": "https://feeds.npr.org/1001/rss.xml",
+          "description": "NPR News Headlines"
+        },
+        {
+          "title": "Reuters",
+          "url": "https://feeds.reuters.com/reuters/topNews",
+          "description": "Reuters Top News"
+        }
+      ]
+    },
+    {
+      "name": "Technology",
+      "icon": "desktopcomputer",
+      "feeds": [
+        {
+          "title": "Ars Technica",
+          "url": "https://feeds.arstechnica.com/arstechnica/index",
+          "description": "Tech news and analysis"
+        },
+        {
+          "title": "The Verge",
+          "url": "https://www.theverge.com/rss/index.xml",
+          "description": "Technology, science, art, and culture"
+        },
+        {
+          "title": "TechCrunch",
+          "url": "https://techcrunch.com/feed/",
+          "description": "Startup and technology news"
+        },
+        {
+          "title": "Wired",
+          "url": "https://www.wired.com/feed/rss",
+          "description": "Tech, science, and culture"
+        }
+      ]
+    },
+    {
+      "name": "Science",
+      "icon": "atom",
+      "feeds": [
+        {
+          "title": "Nature News",
+          "url": "https://www.nature.com/nature.rss",
+          "description": "Latest research from Nature"
+        },
+        {
+          "title": "Science Daily",
+          "url": "https://www.sciencedaily.com/rss/all.xml",
+          "description": "Breaking science news"
+        },
+        {
+          "title": "New Scientist",
+          "url": "https://www.newscientist.com/feed/home/",
+          "description": "Science and technology news"
+        }
+      ]
+    },
+    {
+      "name": "Business & Finance",
+      "icon": "chart.line.uptrend.xyaxis",
+      "feeds": [
+        {
+          "title": "Financial Times",
+          "url": "https://www.ft.com/rss/home",
+          "description": "Global business and finance"
+        },
+        {
+          "title": "Bloomberg",
+          "url": "https://feeds.bloomberg.com/markets/news.rss",
+          "description": "Market news and analysis"
+        },
+        {
+          "title": "The Economist",
+          "url": "https://www.economist.com/finance-and-economics/rss.xml",
+          "description": "Economics and finance"
+        }
+      ]
+    },
+    {
+      "name": "Sports",
+      "icon": "sportscourt",
+      "feeds": [
+        {
+          "title": "ESPN",
+          "url": "https://www.espn.com/espn/rss/news",
+          "description": "Sports news and scores"
+        },
+        {
+          "title": "BBC Sport",
+          "url": "https://feeds.bbci.co.uk/sport/rss.xml",
+          "description": "Latest sports news from BBC"
+        }
+      ]
+    },
+    {
+      "name": "Entertainment",
+      "icon": "film",
+      "feeds": [
+        {
+          "title": "Variety",
+          "url": "https://variety.com/feed/",
+          "description": "Entertainment industry news"
+        },
+        {
+          "title": "Rolling Stone",
+          "url": "https://www.rollingstone.com/feed/",
+          "description": "Music, film, TV, and culture"
+        }
+      ]
+    }
+  ]
+}
