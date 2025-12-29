@@ -188,6 +188,10 @@
     {
       "feeds" : [
         {
+          "title" : "AppleInsider",
+          "url" : "https:\/\/appleinsider.com\/rss\/news\/"
+        },
+        {
           "description" : "Tech news and analysis",
           "title" : "Ars Technica",
           "url" : "https:\/\/feeds.arstechnica.com\/arstechnica\/index"
@@ -195,6 +199,18 @@
         {
           "title" : "Cnet",
           "url" : "https:\/\/www.cnet.com\/rss\/news\/"
+        },
+        {
+          "title" : "GeekWire",
+          "url" : "https:\/\/www.geekwire.com\/feed\/"
+        },
+        {
+          "title" : "MacRumors",
+          "url" : "https:\/\/feeds.macrumors.com\/MacRumors-All"
+        },
+        {
+          "title" : "Meta3Wire",
+          "url" : "https:\/\/meta3wire.org\/feed\/"
         },
         {
           "title" : "Tech Rss",
@@ -206,14 +222,30 @@
           "url" : "https:\/\/techcrunch.com\/feed\/"
         },
         {
+          "title" : "Techradar",
+          "url" : "https:\/\/www.techradar.com\/feeds.xml"
+        },
+        {
           "description" : "Technology, science, art, and culture",
           "title" : "The Verge",
           "url" : "https:\/\/www.theverge.com\/rss\/index.xml"
         },
         {
+          "title" : "VentureBeat",
+          "url" : "https:\/\/feeds.feedburner.com\/venturebeat\/SZYF"
+        },
+        {
           "description" : "Tech, science, and culture",
           "title" : "Wired",
           "url" : "https:\/\/www.wired.com\/feed\/rss"
+        },
+        {
+          "title" : "ZDNET",
+          "url" : "https:\/\/www.zdnet.com\/news\/rss.xml"
+        },
+        {
+          "title" : "Science & Technology",
+          "url" : "https:\/\/informationtoday24x7.blogspot.com\/feeds\/posts\/default"
         }
       ],
       "icon" : "desktopcomputer",
