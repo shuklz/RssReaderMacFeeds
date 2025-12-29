@@ -157,21 +157,29 @@
           "url" : "https:\/\/feeds.bbci.co.uk\/sport\/rss.xml"
         },
         {
-          "description" : "Sports news and scores",
-          "title" : "ESPN",
-          "url" : "https:\/\/www.espn.com\/espn\/rss\/news"
+          "title" : "Cricket Adictor",
+          "url" : "https:\/\/cricketaddictor.com\/feed\/"
         },
         {
           "title" : "Cricket RSS",
           "url" : "https:\/\/crickettimes.com\/feed\/"
         },
         {
-          "title" : "Cricket Adictor",
-          "url" : "https:\/\/cricketaddictor.com\/feed\/"
-        },
-        {
           "title" : "Criclines",
           "url" : "https:\/\/criclines.com\/feed\/"
+        },
+        {
+          "description" : "Sports news and scores",
+          "title" : "ESPN",
+          "url" : "https:\/\/www.espn.com\/espn\/rss\/news"
+        },
+        {
+          "title" : "ESPN Cricinfo",
+          "url" : "https:\/\/www.espncricinfo.com\/rss\/content\/story\/feeds\/0.xml"
+        },
+        {
+          "title" : "BBC Sport-Cricket",
+          "url" : "https:\/\/feeds.bbci.co.uk\/sport\/cricket\/rss.xml"
         }
       ],
       "icon" : "sportscourt",
@@ -205,6 +213,10 @@
           "url" : "https:\/\/meta3wire.org\/feed\/"
         },
         {
+          "title" : "Science & Technology",
+          "url" : "https:\/\/informationtoday24x7.blogspot.com\/feeds\/posts\/default"
+        },
+        {
           "title" : "Tech Rss",
           "url" : "https:\/\/techcrunch.com\/feed\/"
         },
@@ -234,10 +246,6 @@
         {
           "title" : "ZDNET",
           "url" : "https:\/\/www.zdnet.com\/news\/rss.xml"
-        },
-        {
-          "title" : "Science & Technology",
-          "url" : "https:\/\/informationtoday24x7.blogspot.com\/feeds\/posts\/default"
         }
       ],
       "icon" : "desktopcomputer",
