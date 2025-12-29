@@ -157,6 +157,10 @@
           "url" : "https:\/\/feeds.bbci.co.uk\/sport\/rss.xml"
         },
         {
+          "title" : "BBC Sport-Cricket",
+          "url" : "https:\/\/feeds.bbci.co.uk\/sport\/cricket\/rss.xml"
+        },
+        {
           "title" : "Cricket Adictor",
           "url" : "https:\/\/cricketaddictor.com\/feed\/"
         },
@@ -176,10 +180,6 @@
         {
           "title" : "ESPN Cricinfo",
           "url" : "https:\/\/www.espncricinfo.com\/rss\/content\/story\/feeds\/0.xml"
-        },
-        {
-          "title" : "BBC Sport-Cricket",
-          "url" : "https:\/\/feeds.bbci.co.uk\/sport\/cricket\/rss.xml"
         },
         {
           "title" : "Niws 18 Cricket",
