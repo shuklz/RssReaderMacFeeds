@@ -3,10 +3,116 @@
     {
       "feeds" : [
         {
-          "description" : "Latest UK news from The Guardian",
-          "title" : "The Guardian - UK",
-          "url" : "https:\/\/www.theguardian.com\/uk\/rss"
+          "description" : "Market news and analysis",
+          "title" : "Bloomberg",
+          "url" : "https:\/\/feeds.bloomberg.com\/markets\/news.rss"
         },
+        {
+          "description" : "Global business and finance",
+          "title" : "Financial Times",
+          "url" : "https:\/\/www.ft.com\/rss\/home"
+        },
+        {
+          "description" : "Economics and finance",
+          "title" : "The Economist",
+          "url" : "https:\/\/www.economist.com\/finance-and-economics\/rss.xml"
+        }
+      ],
+      "icon" : "chart.line.uptrend.xyaxis",
+      "name" : "Business & Finance"
+    },
+    {
+      "feeds" : [
+        {
+          "description" : "Music, film, TV, and culture",
+          "title" : "Rolling Stone",
+          "url" : "https:\/\/www.rollingstone.com\/feed\/"
+        },
+        {
+          "description" : "Entertainment industry news",
+          "title" : "Variety",
+          "url" : "https:\/\/variety.com\/feed\/"
+        }
+      ],
+      "icon" : "film",
+      "name" : "Entertainment"
+    },
+    {
+      "feeds" : [
+        {
+          "title" : "ABP News",
+          "url" : "https:\/\/news.abplive.com\/home\/feed"
+        },
+        {
+          "title" : "Amar Ujala",
+          "url" : "https:\/\/www.amarujala.com\/rss\/breaking-news.xml"
+        },
+        {
+          "title" : "APN Live",
+          "url" : "https:\/\/apnlive.com\/feed\/"
+        },
+        {
+          "title" : "Bhaskar Live",
+          "url" : "https:\/\/bhaskarlive.in\/feed\/"
+        },
+        {
+          "title" : "Business Standard",
+          "url" : "https:\/\/www.feedspot.com\/infiniterss.php?_src=feed_title&followfeedid=2116546&q=site:https%3A%2F%2Fwww.business-standard.com%2Frss%2Flatest.rss"
+        },
+        {
+          "title" : "DNA",
+          "url" : "https:\/\/www.dnaindia.com\/feeds\/india.xml"
+        },
+        {
+          "title" : "First Post",
+          "url" : "https:\/\/www.firstpost.com\/commonfeeds\/v1\/mfp\/rss\/web-stories.xml"
+        },
+        {
+          "title" : "India Today",
+          "url" : "indiatoday.in\/rss\/1206578"
+        },
+        {
+          "title" : "NDTV",
+          "url" : "https:\/\/feeds.feedburner.com\/NDTV-LatestNews"
+        },
+        {
+          "title" : "News 18",
+          "url" : "https:\/\/www.feedspot.com\/infiniterss.php?_src=feed_title&followfeedid=4433850&q=site:https%3A%2F%2Fwww.news18.com%2Fcommonfeeds%2Fv1%2Feng%2Frss%2Ftext.xml"
+        },
+        {
+          "title" : "Scroll.in",
+          "url" : "https:\/\/feeds.feedburner.com\/ScrollinArticles.rss"
+        },
+        {
+          "title" : "Statetimes",
+          "url" : "https:\/\/www.feedspot.com\/infiniterss.php?_src=feed_title&followfeedid=5421441&q=site:https%3A%2F%2Fstatetimes.in%2Ffeed%2F"
+        },
+        {
+          "title" : "The Hindu",
+          "url" : "https:\/\/www.thehindu.com\/news\/national\/?service=rss"
+        },
+        {
+          "title" : "The Hindu Business Line",
+          "url" : "https:\/\/www.feedspot.com\/infiniterss.php?_src=feed_title&followfeedid=3618&q=site:https%3A%2F%2Fwww.thehindubusinessline.com%2F%3Fservice%3Drss"
+        },
+        {
+          "title" : "The Indian Express",
+          "url" : "https:\/\/indianexpress.com\/feed\/"
+        },
+        {
+          "title" : "The Quint",
+          "url" : "https:\/\/prod-qt-images.s3.amazonaws.com\/production\/thequint\/feed.xml"
+        },
+        {
+          "title" : "TOI",
+          "url" : "https:\/\/timesofindia.indiatimes.com\/rssfeedstopstories.cms"
+        }
+      ],
+      "icon" : "newspaper",
+      "name" : "News - India"
+    },
+    {
+      "feeds" : [
         {
           "description" : "BBC News - World",
           "title" : "BBC News",
@@ -16,6 +122,11 @@
           "description" : "Sky News - Top Stories",
           "title" : "Sky News",
           "url" : "https:\/\/feeds.skynews.com\/feeds\/rss\/home.xml"
+        },
+        {
+          "description" : "Latest UK news from The Guardian",
+          "title" : "The Guardian - UK",
+          "url" : "https:\/\/www.theguardian.com\/uk\/rss"
         }
       ],
       "icon" : "newspaper",
@@ -40,76 +151,39 @@
     {
       "feeds" : [
         {
-          "title" : "TOI",
-          "url" : "https:\/\/timesofindia.indiatimes.com\/rssfeedstopstories.cms"
+          "description" : "Latest research from Nature",
+          "title" : "Nature News",
+          "url" : "https:\/\/www.nature.com\/nature.rss"
         },
         {
-          "title" : "NDTV",
-          "url" : "https:\/\/feeds.feedburner.com\/NDTV-LatestNews"
+          "description" : "Science and technology news",
+          "title" : "New Scientist",
+          "url" : "https:\/\/www.newscientist.com\/feed\/home\/"
         },
         {
-          "title" : "India Today",
-          "url" : "indiatoday.in\/rss\/1206578"
-        },
-        {
-          "title" : "The Indian Express",
-          "url" : "https:\/\/indianexpress.com\/feed\/"
-        },
-        {
-          "title" : "The Hindu",
-          "url" : "https:\/\/www.thehindu.com\/news\/national\/?service=rss"
-        },
-        {
-          "title" : "First Post",
-          "url" : "https:\/\/www.firstpost.com\/commonfeeds\/v1\/mfp\/rss\/web-stories.xml"
-        },
-        {
-          "title" : "Business Standard",
-          "url" : "https:\/\/www.feedspot.com\/infiniterss.php?_src=feed_title&followfeedid=2116546&q=site:https%3A%2F%2Fwww.business-standard.com%2Frss%2Flatest.rss"
-        },
-        {
-          "title" : "DNA",
-          "url" : "https:\/\/www.dnaindia.com\/feeds\/india.xml"
-        },
-        {
-          "title" : "Amar Ujala",
-          "url" : "https:\/\/www.amarujala.com\/rss\/breaking-news.xml"
-        },
-        {
-          "title" : "Scroll.in",
-          "url" : "https:\/\/feeds.feedburner.com\/ScrollinArticles.rss"
-        },
-        {
-          "title" : "The Quint",
-          "url" : "https:\/\/prod-qt-images.s3.amazonaws.com\/production\/thequint\/feed.xml"
-        },
-        {
-          "title" : "ABP News",
-          "url" : "https:\/\/news.abplive.com\/home\/feed"
-        },
-        {
-          "title" : "APN Live",
-          "url" : "https:\/\/apnlive.com\/feed\/"
-        },
-        {
-          "title" : "Bhaskar Live",
-          "url" : "https:\/\/bhaskarlive.in\/feed\/"
-        },
-        {
-          "title" : "The hindu Business Line",
-          "url" : "https:\/\/www.feedspot.com\/infiniterss.php?_src=feed_title&followfeedid=3618&q=site:https%3A%2F%2Fwww.thehindubusinessline.com%2F%3Fservice%3Drss"
-        },
-        {
-          "title" : "News 18",
-          "url" : "https:\/\/www.feedspot.com\/infiniterss.php?_src=feed_title&followfeedid=4433850&q=site:https%3A%2F%2Fwww.news18.com%2Fcommonfeeds%2Fv1%2Feng%2Frss%2Ftext.xml"
-        },
-        {
-          "title" : "Statetimes",
-          "url" : "https:\/\/www.feedspot.com\/infiniterss.php?_src=feed_title&followfeedid=5421441&q=site:https%3A%2F%2Fstatetimes.in%2Ffeed%2F"
+          "description" : "Breaking science news",
+          "title" : "Science Daily",
+          "url" : "https:\/\/www.sciencedaily.com\/rss\/all.xml"
         }
       ],
-      "icon" : "newspaper",
-      "name" : "News - India"
+      "icon" : "atom",
+      "name" : "Science"
+    },
+    {
+      "feeds" : [
+        {
+          "description" : "Latest sports news from BBC",
+          "title" : "BBC Sport",
+          "url" : "https:\/\/feeds.bbci.co.uk\/sport\/rss.xml"
+        },
+        {
+          "description" : "Sports news and scores",
+          "title" : "ESPN",
+          "url" : "https:\/\/www.espn.com\/espn\/rss\/news"
+        }
+      ],
+      "icon" : "sportscourt",
+      "name" : "Sports"
     },
     {
       "feeds" : [
@@ -119,9 +193,12 @@
           "url" : "https:\/\/feeds.arstechnica.com\/arstechnica\/index"
         },
         {
-          "description" : "Technology, science, art, and culture",
-          "title" : "The Verge",
-          "url" : "https:\/\/www.theverge.com\/rss\/index.xml"
+          "title" : "Cnet",
+          "url" : "https:\/\/www.cnet.com\/rss\/news\/"
+        },
+        {
+          "title" : "Tech Rss",
+          "url" : "https:\/\/techcrunch.com\/feed\/"
         },
         {
           "description" : "Startup and technology news",
@@ -129,95 +206,18 @@
           "url" : "https:\/\/techcrunch.com\/feed\/"
         },
         {
+          "description" : "Technology, science, art, and culture",
+          "title" : "The Verge",
+          "url" : "https:\/\/www.theverge.com\/rss\/index.xml"
+        },
+        {
           "description" : "Tech, science, and culture",
           "title" : "Wired",
           "url" : "https:\/\/www.wired.com\/feed\/rss"
-        },
-        {
-          "title" : "Tech Rss",
-          "url" : "https:\/\/techcrunch.com\/feed\/"
-        },
-        {
-          "title" : "Cnet",
-          "url" : "https:\/\/www.cnet.com\/rss\/news\/"
         }
       ],
       "icon" : "desktopcomputer",
       "name" : "Technology"
-    },
-    {
-      "feeds" : [
-        {
-          "description" : "Latest research from Nature",
-          "title" : "Nature News",
-          "url" : "https:\/\/www.nature.com\/nature.rss"
-        },
-        {
-          "description" : "Breaking science news",
-          "title" : "Science Daily",
-          "url" : "https:\/\/www.sciencedaily.com\/rss\/all.xml"
-        },
-        {
-          "description" : "Science and technology news",
-          "title" : "New Scientist",
-          "url" : "https:\/\/www.newscientist.com\/feed\/home\/"
-        }
-      ],
-      "icon" : "atom",
-      "name" : "Science"
-    },
-    {
-      "feeds" : [
-        {
-          "description" : "Global business and finance",
-          "title" : "Financial Times",
-          "url" : "https:\/\/www.ft.com\/rss\/home"
-        },
-        {
-          "description" : "Market news and analysis",
-          "title" : "Bloomberg",
-          "url" : "https:\/\/feeds.bloomberg.com\/markets\/news.rss"
-        },
-        {
-          "description" : "Economics and finance",
-          "title" : "The Economist",
-          "url" : "https:\/\/www.economist.com\/finance-and-economics\/rss.xml"
-        }
-      ],
-      "icon" : "chart.line.uptrend.xyaxis",
-      "name" : "Business & Finance"
-    },
-    {
-      "feeds" : [
-        {
-          "description" : "Sports news and scores",
-          "title" : "ESPN",
-          "url" : "https:\/\/www.espn.com\/espn\/rss\/news"
-        },
-        {
-          "description" : "Latest sports news from BBC",
-          "title" : "BBC Sport",
-          "url" : "https:\/\/feeds.bbci.co.uk\/sport\/rss.xml"
-        }
-      ],
-      "icon" : "sportscourt",
-      "name" : "Sports"
-    },
-    {
-      "feeds" : [
-        {
-          "description" : "Entertainment industry news",
-          "title" : "Variety",
-          "url" : "https:\/\/variety.com\/feed\/"
-        },
-        {
-          "description" : "Music, film, TV, and culture",
-          "title" : "Rolling Stone",
-          "url" : "https:\/\/www.rollingstone.com\/feed\/"
-        }
-      ],
-      "icon" : "film",
-      "name" : "Entertainment"
     }
   ],
   "lastUpdated" : "2025-12-29",
