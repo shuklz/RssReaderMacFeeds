@@ -19,7 +19,7 @@
         }
       ],
       "icon" : "newspaper",
-      "name" : "News - UK-2"
+      "name" : "News - UK"
     },
     {
       "feeds" : [
@@ -141,6 +141,13 @@
       ],
       "icon" : "film",
       "name" : "Entertainment"
+    },
+    {
+      "feeds" : [
+
+      ],
+      "icon" : "newspaper",
+      "name" : "News - India"
     }
   ],
   "lastUpdated" : "2025-12-29",
