@@ -32,11 +32,6 @@
           "description" : "NPR News Headlines",
           "title" : "NPR News",
           "url" : "https:\/\/feeds.npr.org\/1001\/rss.xml"
-        },
-        {
-          "description" : "Reuters Top News",
-          "title" : "Reuters",
-          "url" : "https:\/\/feeds.reuters.com\/reuters\/topNews"
         }
       ],
       "icon" : "newspaper",
