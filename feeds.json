@@ -1,148 +1,148 @@
 {
-  "version": "1.0",
-  "lastUpdated": "2025-01-01",
-  "categories": [
+  "categories" : [
     {
-      "name": "News - UK",
-      "icon": "newspaper",
-      "feeds": [
+      "feeds" : [
         {
-          "title": "The Guardian - UK",
-          "url": "https://www.theguardian.com/uk/rss",
-          "description": "Latest UK news from The Guardian"
+          "description" : "Latest UK news from The Guardian",
+          "title" : "The Guardian - UK",
+          "url" : "https:\/\/www.theguardian.com\/uk\/rss"
         },
         {
-          "title": "BBC News",
-          "url": "https://feeds.bbci.co.uk/news/rss.xml",
-          "description": "BBC News - World"
+          "description" : "BBC News - World",
+          "title" : "BBC News",
+          "url" : "https:\/\/feeds.bbci.co.uk\/news\/rss.xml"
         },
         {
-          "title": "Sky News",
-          "url": "https://feeds.skynews.com/feeds/rss/home.xml",
-          "description": "Sky News - Top Stories"
+          "description" : "Sky News - Top Stories",
+          "title" : "Sky News",
+          "url" : "https:\/\/feeds.skynews.com\/feeds\/rss\/home.xml"
         }
-      ]
+      ],
+      "icon" : "newspaper",
+      "name" : "News - UK"
     },
     {
-      "name": "News - US",
-      "icon": "newspaper",
-      "feeds": [
+      "feeds" : [
         {
-          "title": "AP News",
-          "url": "https://feedx.net/rss/ap.xml",
-          "description": "Associated Press Top Headlines"
+          "description" : "Associated Press Top Headlines",
+          "title" : "AP News",
+          "url" : "https:\/\/feedx.net\/rss\/ap.xml"
         },
         {
-          "title": "NPR News",
-          "url": "https://feeds.npr.org/1001/rss.xml",
-          "description": "NPR News Headlines"
+          "description" : "NPR News Headlines",
+          "title" : "NPR News",
+          "url" : "https:\/\/feeds.npr.org\/1001\/rss.xml"
         },
         {
-          "title": "Reuters",
-          "url": "https://feeds.reuters.com/reuters/topNews",
-          "description": "Reuters Top News"
+          "description" : "Reuters Top News",
+          "title" : "Reuters",
+          "url" : "https:\/\/feeds.reuters.com\/reuters\/topNews"
         }
-      ]
+      ],
+      "icon" : "newspaper",
+      "name" : "News - US"
     },
     {
-      "name": "Technology",
-      "icon": "desktopcomputer",
-      "feeds": [
+      "feeds" : [
         {
-          "title": "Ars Technica",
-          "url": "https://feeds.arstechnica.com/arstechnica/index",
-          "description": "Tech news and analysis"
+          "description" : "Tech news and analysis",
+          "title" : "Ars Technica",
+          "url" : "https:\/\/feeds.arstechnica.com\/arstechnica\/index"
         },
         {
-          "title": "The Verge",
-          "url": "https://www.theverge.com/rss/index.xml",
-          "description": "Technology, science, art, and culture"
+          "description" : "Technology, science, art, and culture",
+          "title" : "The Verge",
+          "url" : "https:\/\/www.theverge.com\/rss\/index.xml"
         },
         {
-          "title": "TechCrunch",
-          "url": "https://techcrunch.com/feed/",
-          "description": "Startup and technology news"
+          "description" : "Startup and technology news",
+          "title" : "TechCrunch",
+          "url" : "https:\/\/techcrunch.com\/feed\/"
         },
         {
-          "title": "Wired",
-          "url": "https://www.wired.com/feed/rss",
-          "description": "Tech, science, and culture"
+          "description" : "Tech, science, and culture",
+          "title" : "Wired",
+          "url" : "https:\/\/www.wired.com\/feed\/rss"
         }
-      ]
+      ],
+      "icon" : "desktopcomputer",
+      "name" : "Technology"
     },
     {
-      "name": "Science",
-      "icon": "atom",
-      "feeds": [
+      "feeds" : [
         {
-          "title": "Nature News",
-          "url": "https://www.nature.com/nature.rss",
-          "description": "Latest research from Nature"
+          "description" : "Latest research from Nature",
+          "title" : "Nature News",
+          "url" : "https:\/\/www.nature.com\/nature.rss"
         },
         {
-          "title": "Science Daily",
-          "url": "https://www.sciencedaily.com/rss/all.xml",
-          "description": "Breaking science news"
+          "description" : "Breaking science news",
+          "title" : "Science Daily",
+          "url" : "https:\/\/www.sciencedaily.com\/rss\/all.xml"
         },
         {
-          "title": "New Scientist",
-          "url": "https://www.newscientist.com/feed/home/",
-          "description": "Science and technology news"
+          "description" : "Science and technology news",
+          "title" : "New Scientist",
+          "url" : "https:\/\/www.newscientist.com\/feed\/home\/"
         }
-      ]
+      ],
+      "icon" : "atom",
+      "name" : "Science"
     },
     {
-      "name": "Business & Finance",
-      "icon": "chart.line.uptrend.xyaxis",
-      "feeds": [
+      "feeds" : [
         {
-          "title": "Financial Times",
-          "url": "https://www.ft.com/rss/home",
-          "description": "Global business and finance"
+          "description" : "Global business and finance",
+          "title" : "Financial Times",
+          "url" : "https:\/\/www.ft.com\/rss\/home"
         },
         {
-          "title": "Bloomberg",
-          "url": "https://feeds.bloomberg.com/markets/news.rss",
-          "description": "Market news and analysis"
+          "description" : "Market news and analysis",
+          "title" : "Bloomberg",
+          "url" : "https:\/\/feeds.bloomberg.com\/markets\/news.rss"
         },
         {
-          "title": "The Economist",
-          "url": "https://www.economist.com/finance-and-economics/rss.xml",
-          "description": "Economics and finance"
+          "description" : "Economics and finance",
+          "title" : "The Economist",
+          "url" : "https:\/\/www.economist.com\/finance-and-economics\/rss.xml"
         }
-      ]
+      ],
+      "icon" : "chart.line.uptrend.xyaxis",
+      "name" : "Business & Finance"
     },
     {
-      "name": "Sports",
-      "icon": "sportscourt",
-      "feeds": [
+      "feeds" : [
         {
-          "title": "ESPN",
-          "url": "https://www.espn.com/espn/rss/news",
-          "description": "Sports news and scores"
+          "description" : "Sports news and scores",
+          "title" : "ESPN",
+          "url" : "https:\/\/www.espn.com\/espn\/rss\/news"
         },
         {
-          "title": "BBC Sport",
-          "url": "https://feeds.bbci.co.uk/sport/rss.xml",
-          "description": "Latest sports news from BBC"
+          "description" : "Latest sports news from BBC",
+          "title" : "BBC Sport",
+          "url" : "https:\/\/feeds.bbci.co.uk\/sport\/rss.xml"
         }
-      ]
+      ],
+      "icon" : "sportscourt",
+      "name" : "Sports"
     },
     {
-      "name": "Entertainment",
-      "icon": "film",
-      "feeds": [
+      "feeds" : [
         {
-          "title": "Variety",
-          "url": "https://variety.com/feed/",
-          "description": "Entertainment industry news"
+          "description" : "Entertainment industry news",
+          "title" : "Variety",
+          "url" : "https:\/\/variety.com\/feed\/"
         },
         {
-          "title": "Rolling Stone",
-          "url": "https://www.rollingstone.com/feed/",
-          "description": "Music, film, TV, and culture"
+          "description" : "Music, film, TV, and culture",
+          "title" : "Rolling Stone",
+          "url" : "https:\/\/www.rollingstone.com\/feed\/"
         }
-      ]
+      ],
+      "icon" : "film",
+      "name" : "Entertainment"
     }
-  ]
+  ],
+  "lastUpdated" : "2025-12-28",
+  "version" : "1.0"
 }
