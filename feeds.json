@@ -180,6 +180,10 @@
         {
           "title" : "BBC Sport-Cricket",
           "url" : "https:\/\/feeds.bbci.co.uk\/sport\/cricket\/rss.xml"
+        },
+        {
+          "title" : "Niws 18 Cricket",
+          "url" : "news18.com\/commonfeeds\/v1\/en.."
         }
       ],
       "icon" : "sportscourt",
