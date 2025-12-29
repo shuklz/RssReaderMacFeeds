@@ -39,7 +39,10 @@
     },
     {
       "feeds" : [
-
+        {
+          "title" : "TOI",
+          "url" : "https:\/\/timesofindia.indiatimes.com\/rssfeedstopstories.cms"
+        }
       ],
       "icon" : "newspaper",
       "name" : "News - India"
