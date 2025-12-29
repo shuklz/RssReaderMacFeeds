@@ -132,6 +132,14 @@
           "description" : "Tech, science, and culture",
           "title" : "Wired",
           "url" : "https:\/\/www.wired.com\/feed\/rss"
+        },
+        {
+          "title" : "Tech Rss",
+          "url" : "https:\/\/techcrunch.com\/feed\/"
+        },
+        {
+          "title" : "Cnet",
+          "url" : "https:\/\/www.cnet.com\/rss\/news\/"
         }
       ],
       "icon" : "desktopcomputer",
