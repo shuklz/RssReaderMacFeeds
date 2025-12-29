@@ -42,6 +42,70 @@
         {
           "title" : "TOI",
           "url" : "https:\/\/timesofindia.indiatimes.com\/rssfeedstopstories.cms"
+        },
+        {
+          "title" : "NDTV",
+          "url" : "https:\/\/feeds.feedburner.com\/NDTV-LatestNews"
+        },
+        {
+          "title" : "India Today",
+          "url" : "indiatoday.in\/rss\/1206578"
+        },
+        {
+          "title" : "The Indian Express",
+          "url" : "https:\/\/indianexpress.com\/feed\/"
+        },
+        {
+          "title" : "The Hindu",
+          "url" : "https:\/\/www.thehindu.com\/news\/national\/?service=rss"
+        },
+        {
+          "title" : "First Post",
+          "url" : "https:\/\/www.firstpost.com\/commonfeeds\/v1\/mfp\/rss\/web-stories.xml"
+        },
+        {
+          "title" : "Business Standard",
+          "url" : "https:\/\/www.feedspot.com\/infiniterss.php?_src=feed_title&followfeedid=2116546&q=site:https%3A%2F%2Fwww.business-standard.com%2Frss%2Flatest.rss"
+        },
+        {
+          "title" : "DNA",
+          "url" : "https:\/\/www.dnaindia.com\/feeds\/india.xml"
+        },
+        {
+          "title" : "Amar Ujala",
+          "url" : "https:\/\/www.amarujala.com\/rss\/breaking-news.xml"
+        },
+        {
+          "title" : "Scroll.in",
+          "url" : "https:\/\/feeds.feedburner.com\/ScrollinArticles.rss"
+        },
+        {
+          "title" : "The Quint",
+          "url" : "https:\/\/prod-qt-images.s3.amazonaws.com\/production\/thequint\/feed.xml"
+        },
+        {
+          "title" : "ABP News",
+          "url" : "https:\/\/news.abplive.com\/home\/feed"
+        },
+        {
+          "title" : "APN Live",
+          "url" : "https:\/\/apnlive.com\/feed\/"
+        },
+        {
+          "title" : "Bhaskar Live",
+          "url" : "https:\/\/bhaskarlive.in\/feed\/"
+        },
+        {
+          "title" : "The hindu Business Line",
+          "url" : "https:\/\/www.feedspot.com\/infiniterss.php?_src=feed_title&followfeedid=3618&q=site:https%3A%2F%2Fwww.thehindubusinessline.com%2F%3Fservice%3Drss"
+        },
+        {
+          "title" : "News 18",
+          "url" : "https:\/\/www.feedspot.com\/infiniterss.php?_src=feed_title&followfeedid=4433850&q=site:https%3A%2F%2Fwww.news18.com%2Fcommonfeeds%2Fv1%2Feng%2Frss%2Ftext.xml"
+        },
+        {
+          "title" : "Statetimes",
+          "url" : "https:\/\/www.feedspot.com\/infiniterss.php?_src=feed_title&followfeedid=5421441&q=site:https%3A%2F%2Fstatetimes.in%2Ffeed%2F"
         }
       ],
       "icon" : "newspaper",
