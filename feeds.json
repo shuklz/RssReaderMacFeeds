@@ -180,6 +180,22 @@
           "description" : "Sports news and scores",
           "title" : "ESPN",
           "url" : "https:\/\/www.espn.com\/espn\/rss\/news"
+        },
+        {
+          "title" : "Cricket RSS",
+          "url" : "https:\/\/crickettimes.com\/feed\/"
+        },
+        {
+          "title" : "Cricket Adictor",
+          "url" : "https:\/\/cricketaddictor.com\/feed\/"
+        },
+        {
+          "title" : "Criclines",
+          "url" : "https:\/\/criclines.com\/feed\/"
+        },
+        {
+          "title" : "Cricket Snippet",
+          "url" : "https:\/\/www.cricketsnippet.com\/feed\/"
         }
       ],
       "icon" : "sportscourt",
