@@ -56,10 +56,6 @@
           "url" : "https:\/\/bhaskarlive.in\/feed\/"
         },
         {
-          "title" : "Business Standard",
-          "url" : "https:\/\/www.feedspot.com\/infiniterss.php?_src=feed_title&followfeedid=2116546&q=site:https%3A%2F%2Fwww.business-standard.com%2Frss%2Flatest.rss"
-        },
-        {
           "title" : "DNA",
           "url" : "https:\/\/www.dnaindia.com\/feeds\/india.xml"
         },
@@ -68,32 +64,16 @@
           "url" : "https:\/\/www.firstpost.com\/commonfeeds\/v1\/mfp\/rss\/web-stories.xml"
         },
         {
-          "title" : "India Today",
-          "url" : "indiatoday.in\/rss\/1206578"
-        },
-        {
           "title" : "NDTV",
           "url" : "https:\/\/feeds.feedburner.com\/NDTV-LatestNews"
-        },
-        {
-          "title" : "News 18",
-          "url" : "https:\/\/www.feedspot.com\/infiniterss.php?_src=feed_title&followfeedid=4433850&q=site:https%3A%2F%2Fwww.news18.com%2Fcommonfeeds%2Fv1%2Feng%2Frss%2Ftext.xml"
         },
         {
           "title" : "Scroll.in",
           "url" : "https:\/\/feeds.feedburner.com\/ScrollinArticles.rss"
         },
         {
-          "title" : "Statetimes",
-          "url" : "https:\/\/www.feedspot.com\/infiniterss.php?_src=feed_title&followfeedid=5421441&q=site:https%3A%2F%2Fstatetimes.in%2Ffeed%2F"
-        },
-        {
           "title" : "The Hindu",
           "url" : "https:\/\/www.thehindu.com\/news\/national\/?service=rss"
-        },
-        {
-          "title" : "The Hindu Business Line",
-          "url" : "https:\/\/www.feedspot.com\/infiniterss.php?_src=feed_title&followfeedid=3618&q=site:https%3A%2F%2Fwww.thehindubusinessline.com%2F%3Fservice%3Drss"
         },
         {
           "title" : "The Indian Express",
@@ -192,10 +172,6 @@
         {
           "title" : "Criclines",
           "url" : "https:\/\/criclines.com\/feed\/"
-        },
-        {
-          "title" : "Cricket Snippet",
-          "url" : "https:\/\/www.cricketsnippet.com\/feed\/"
         }
       ],
       "icon" : "sportscourt",
