@@ -86,6 +86,18 @@
         {
           "title" : "TOI",
           "url" : "https:\/\/timesofindia.indiatimes.com\/rssfeedstopstories.cms"
+        },
+        {
+          "title" : "Navbharat Times",
+          "url" : "https:\/\/navbharattimes.indiatimes.com\/rssfeedsdefault.cms"
+        },
+        {
+          "title" : "Oneindia Hindi",
+          "url" : "https:\/\/hindi.oneindia.com\/rss\/hindi-news-fb.xml"
+        },
+        {
+          "title" : "The Hindi News",
+          "url" : "thehindi.in\/feed"
         }
       ],
       "icon" : "newspaper",
