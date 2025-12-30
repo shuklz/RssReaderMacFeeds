@@ -98,6 +98,10 @@
         {
           "title" : "Oneindia - Bengali",
           "url" : "https:\/\/bengali.oneindia.com\/rss\/feeds\/west-bengal-news-fb.xml"
+        },
+        {
+          "title" : "Gujarat Samachar",
+          "url" : "https:\/\/www.gujaratsamachar.com\/rss\/top-stories"
         }
       ],
       "icon" : "newspaper",
