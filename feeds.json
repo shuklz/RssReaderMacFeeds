@@ -88,16 +88,12 @@
           "url" : "https:\/\/timesofindia.indiatimes.com\/rssfeedstopstories.cms"
         },
         {
-          "title" : "Navbharat Times",
-          "url" : "https:\/\/navbharattimes.indiatimes.com\/rssfeedsdefault.cms"
-        },
-        {
           "title" : "Oneindia Hindi",
           "url" : "https:\/\/hindi.oneindia.com\/rss\/hindi-news-fb.xml"
         },
         {
-          "title" : "The Hindi News",
-          "url" : "thehindi.in\/feed"
+          "title" : "NDTV-Hindi",
+          "url" : "https:\/\/feeds.feedburner.com\/ndtvkhabar-latest"
         }
       ],
       "icon" : "newspaper",
@@ -192,10 +188,6 @@
         {
           "title" : "ESPN Cricinfo",
           "url" : "https:\/\/www.espncricinfo.com\/rss\/content\/story\/feeds\/0.xml"
-        },
-        {
-          "title" : "Niws 18 Cricket",
-          "url" : "news18.com\/commonfeeds\/v1\/en.."
         }
       ],
       "icon" : "sportscourt",
