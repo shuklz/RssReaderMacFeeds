@@ -72,6 +72,10 @@
           "url" : "https:\/\/feeds.feedburner.com\/ndtvkhabar-latest"
         },
         {
+          "title" : "Oneindia - Bengali",
+          "url" : "https:\/\/bengali.oneindia.com\/rss\/feeds\/west-bengal-news-fb.xml"
+        },
+        {
           "title" : "Oneindia Hindi",
           "url" : "https:\/\/hindi.oneindia.com\/rss\/hindi-news-fb.xml"
         },
@@ -94,14 +98,6 @@
         {
           "title" : "TOI",
           "url" : "https:\/\/timesofindia.indiatimes.com\/rssfeedstopstories.cms"
-        },
-        {
-          "title" : "Oneindia - Bengali",
-          "url" : "https:\/\/bengali.oneindia.com\/rss\/feeds\/west-bengal-news-fb.xml"
-        },
-        {
-          "title" : "Gujarat Samachar",
-          "url" : "https:\/\/www.gujaratsamachar.com\/rss\/top-stories"
         }
       ],
       "icon" : "newspaper",
