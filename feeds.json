@@ -80,6 +80,10 @@
           "url" : "https:\/\/feeds.feedburner.com\/ScrollinArticles.rss"
         },
         {
+          "title" : "Telegraph",
+          "url" : "http:\/\/www.telegraphindia.com\/feeds\/rss.jsp?id=3"
+        },
+        {
           "title" : "The Hindu",
           "url" : "https:\/\/www.thehindu.com\/news\/national\/?service=rss"
         },
@@ -118,10 +122,6 @@
         {
           "title" : "TOI - Mumbai",
           "url" : "https:\/\/timesofindia.indiatimes.com\/rssfeeds\/-2128838597.cms"
-        },
-        {
-          "title" : "Telegraph",
-          "url" : "http:\/\/www.telegraphindia.com\/feeds\/rss.jsp?id=3"
         }
       ],
       "icon" : "newspaper",
