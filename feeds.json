@@ -72,10 +72,6 @@
           "url" : "https:\/\/feeds.feedburner.com\/ndtvkhabar-latest"
         },
         {
-          "title" : "Oneindia - Bengali",
-          "url" : "https:\/\/bengali.oneindia.com\/rss\/feeds\/west-bengal-news-fb.xml"
-        },
-        {
           "title" : "Oneindia Hindi",
           "url" : "https:\/\/hindi.oneindia.com\/rss\/hindi-news-fb.xml"
         },
@@ -104,24 +100,24 @@
           "url" : "https:\/\/timesofindia.indiatimes.com\/rssfeeds\/-2128821153.cms"
         },
         {
-          "title" : "TOI - Kolkata",
-          "url" : "https:\/\/timesofindia.indiatimes.com\/rssfeeds\/-2128830821.cms"
-        },
-        {
-          "title" : "TOI - Mumbai",
-          "url" : "https:\/\/timesofindia.indiatimes.com\/rssfeeds\/-2128838597.cms"
+          "title" : "TOI - Cricket",
+          "url" : "https:\/\/timesofindia.indiatimes.com\/rssfeeds\/54829575.cms"
         },
         {
           "title" : "TOI - Delhi",
           "url" : "https:\/\/timesofindia.indiatimes.com\/rssfeeds\/-2128839596.cms"
         },
         {
-          "title" : "TOI - Cricket",
-          "url" : "https:\/\/timesofindia.indiatimes.com\/rssfeeds\/54829575.cms"
+          "title" : "TOI - Kolkata",
+          "url" : "https:\/\/timesofindia.indiatimes.com\/rssfeeds\/-2128830821.cms"
         },
         {
           "title" : "TOI - Lucknow",
           "url" : "https:\/\/timesofindia.indiatimes.com\/rssfeeds\/-2128819658.cms"
+        },
+        {
+          "title" : "TOI - Mumbai",
+          "url" : "https:\/\/timesofindia.indiatimes.com\/rssfeeds\/-2128838597.cms"
         }
       ],
       "icon" : "newspaper",
