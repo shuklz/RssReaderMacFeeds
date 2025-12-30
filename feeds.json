@@ -98,6 +98,14 @@
         {
           "title" : "TOI",
           "url" : "https:\/\/timesofindia.indiatimes.com\/rssfeedstopstories.cms"
+        },
+        {
+          "title" : "TOI - Ahemdabad",
+          "url" : "https:\/\/timesofindia.indiatimes.com\/rssfeeds\/-2128821153.cms"
+        },
+        {
+          "title" : "TOI - Kolkata",
+          "url" : "https:\/\/timesofindia.indiatimes.com\/rssfeeds\/-2128830821.cms"
         }
       ],
       "icon" : "newspaper",
