@@ -284,6 +284,30 @@
         {
           "title" : "VR Bites",
           "url" : "https:\/\/vrbites.com\/feed\/"
+        },
+        {
+          "title" : "VRGaming",
+          "url" : "https:\/\/vrgaming.store\/feed\/"
+        },
+        {
+          "title" : "XR Today",
+          "url" : "https:\/\/www.xrtoday.com\/feed\/"
+        },
+        {
+          "title" : "VR Today Magazine",
+          "url" : "https:\/\/vrtodaymagazine.com\/feed\/"
+        },
+        {
+          "title" : "TechCrunch Virtual Reality",
+          "url" : "https:\/\/techcrunch.com\/tag\/virtual-reality\/feed\/"
+        },
+        {
+          "title" : "Google AR and VR",
+          "url" : "https:\/\/blog.google\/products\/google-ar-vr\/rss\/"
+        },
+        {
+          "title" : "Oculus VR News",
+          "url" : "https:\/\/www.ovrnews.com\/feed\/"
         }
       ],
       "icon" : "newspaper",
