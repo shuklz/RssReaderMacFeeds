@@ -258,6 +258,40 @@
       ],
       "icon" : "desktopcomputer",
       "name" : "Technology"
+    },
+    {
+      "feeds" : [
+        {
+          "title" : "Road to VR",
+          "url" : "https:\/\/www.roadtovr.com\/feed\/"
+        },
+        {
+          "title" : "Upload VR",
+          "url" : "https:\/\/www.uploadvr.com\/feed\/"
+        },
+        {
+          "title" : "The Ghost Howls",
+          "url" : "https:\/\/skarredghost.com\/feed\/"
+        },
+        {
+          "title" : "Hypergrid Business",
+          "url" : "https:\/\/www.hypergridbusiness.com\/feed\/"
+        },
+        {
+          "title" : "Eon Reality Blog",
+          "url" : "http:\/\/eonreality.com\/feed\/"
+        },
+        {
+          "title" : "Immersive Learning News",
+          "url" : "https:\/\/www.immersivelearning.news\/feed\/"
+        },
+        {
+          "title" : "VR Bites",
+          "url" : "https:\/\/vrbites.com\/feed\/"
+        }
+      ],
+      "icon" : "newspaper",
+      "name" : "VR-AR-XR"
     }
   ],
   "lastUpdated" : "2025-12-29",
