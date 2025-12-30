@@ -68,6 +68,14 @@
           "url" : "https:\/\/feeds.feedburner.com\/NDTV-LatestNews"
         },
         {
+          "title" : "NDTV-Hindi",
+          "url" : "https:\/\/feeds.feedburner.com\/ndtvkhabar-latest"
+        },
+        {
+          "title" : "Oneindia Hindi",
+          "url" : "https:\/\/hindi.oneindia.com\/rss\/hindi-news-fb.xml"
+        },
+        {
           "title" : "Scroll.in",
           "url" : "https:\/\/feeds.feedburner.com\/ScrollinArticles.rss"
         },
@@ -88,12 +96,8 @@
           "url" : "https:\/\/timesofindia.indiatimes.com\/rssfeedstopstories.cms"
         },
         {
-          "title" : "Oneindia Hindi",
-          "url" : "https:\/\/hindi.oneindia.com\/rss\/hindi-news-fb.xml"
-        },
-        {
-          "title" : "NDTV-Hindi",
-          "url" : "https:\/\/feeds.feedburner.com\/ndtvkhabar-latest"
+          "title" : "Oneindia - Bengali",
+          "url" : "https:\/\/bengali.oneindia.com\/rss\/feeds\/west-bengal-news-fb.xml"
         }
       ],
       "icon" : "newspaper",
@@ -262,18 +266,6 @@
     {
       "feeds" : [
         {
-          "title" : "Road to VR",
-          "url" : "https:\/\/www.roadtovr.com\/feed\/"
-        },
-        {
-          "title" : "Upload VR",
-          "url" : "https:\/\/www.uploadvr.com\/feed\/"
-        },
-        {
-          "title" : "The Ghost Howls",
-          "url" : "https:\/\/skarredghost.com\/feed\/"
-        },
-        {
           "title" : "Hypergrid Business",
           "url" : "https:\/\/www.hypergridbusiness.com\/feed\/"
         },
@@ -282,30 +274,42 @@
           "url" : "https:\/\/www.immersivelearning.news\/feed\/"
         },
         {
-          "title" : "VR Bites",
-          "url" : "https:\/\/vrbites.com\/feed\/"
+          "title" : "Oculus VR News",
+          "url" : "https:\/\/www.ovrnews.com\/feed\/"
         },
         {
-          "title" : "XR Today",
-          "url" : "https:\/\/www.xrtoday.com\/feed\/"
-        },
-        {
-          "title" : "VR Today Magazine",
-          "url" : "https:\/\/vrtodaymagazine.com\/feed\/"
+          "title" : "Road to VR",
+          "url" : "https:\/\/www.roadtovr.com\/feed\/"
         },
         {
           "title" : "TechCrunch Virtual Reality",
           "url" : "https:\/\/techcrunch.com\/tag\/virtual-reality\/feed\/"
         },
         {
-          "title" : "Oculus VR News",
-          "url" : "https:\/\/www.ovrnews.com\/feed\/"
+          "title" : "The Ghost Howls",
+          "url" : "https:\/\/skarredghost.com\/feed\/"
+        },
+        {
+          "title" : "Upload VR",
+          "url" : "https:\/\/www.uploadvr.com\/feed\/"
+        },
+        {
+          "title" : "VR Bites",
+          "url" : "https:\/\/vrbites.com\/feed\/"
+        },
+        {
+          "title" : "VR Today Magazine",
+          "url" : "https:\/\/vrtodaymagazine.com\/feed\/"
+        },
+        {
+          "title" : "XR Today",
+          "url" : "https:\/\/www.xrtoday.com\/feed\/"
         }
       ],
       "icon" : "newspaper",
       "name" : "VR-AR-XR"
     }
   ],
-  "lastUpdated" : "2025-12-29",
+  "lastUpdated" : "2025-12-30",
   "version" : "1.0"
 }
