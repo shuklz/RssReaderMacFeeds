@@ -212,6 +212,10 @@
         {
           "title" : "ESPN Cricinfo",
           "url" : "https:\/\/www.espncricinfo.com\/rss\/content\/story\/feeds\/0.xml"
+        },
+        {
+          "title" : "Manchester City",
+          "url" : "https:\/\/bitterandblue.sbnation.com\/rss\/current.xml"
         }
       ],
       "icon" : "sportscourt",
