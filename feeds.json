@@ -212,10 +212,6 @@
         {
           "title" : "ESPN Cricinfo",
           "url" : "https:\/\/www.espncricinfo.com\/rss\/content\/story\/feeds\/0.xml"
-        },
-        {
-          "title" : "Telegraph",
-          "url" : "http:\/\/www.telegraphindia.com\/feeds\/rss.jsp?id=7"
         }
       ],
       "icon" : "sportscourt",
