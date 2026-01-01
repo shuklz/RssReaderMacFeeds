@@ -347,7 +347,10 @@
     },
     {
       "feeds" : [
-
+        {
+          "title" : "Straitstimes - Singapore",
+          "url" : "https:\/\/www.straitstimes.com\/news\/singapore\/rss.xml"
+        }
       ],
       "name" : "News-Others"
     }
