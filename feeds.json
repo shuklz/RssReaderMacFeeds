@@ -155,6 +155,10 @@
           "description" : "NPR News Headlines",
           "title" : "NPR News",
           "url" : "https:\/\/feeds.npr.org\/1001\/rss.xml"
+        },
+        {
+          "title" : "Seattletimes",
+          "url" : "https:\/\/www.seattletimes.com\/rss-feeds\/"
         }
       ],
       "icon" : "newspaper",
