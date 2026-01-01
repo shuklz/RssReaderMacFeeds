@@ -157,6 +157,10 @@
           "url" : "https:\/\/feeds.npr.org\/1001\/rss.xml"
         },
         {
+          "title" : "Nytimes",
+          "url" : "https:\/\/rss.nytimes.com\/services\/xml\/rss\/nyt\/World.xml"
+        },
+        {
           "title" : "Seattletimes",
           "url" : "https:\/\/www.seattletimes.com\/feed\/"
         },
@@ -165,12 +169,21 @@
           "url" : "https:\/\/www.washingtontimes.com\/rss\/headlines\/news\/world\/"
         },
         {
-          "title" : "Nytimes",
-          "url" : "https:\/\/rss.nytimes.com\/services\/xml\/rss\/nyt\/World.xml"
+          "title" : "CNN",
+          "url" : "http:\/\/rss.cnn.com\/rss\/cnn_topstories.rss"
         }
       ],
       "icon" : "newspaper",
       "name" : "News - US"
+    },
+    {
+      "feeds" : [
+        {
+          "title" : "Straitstimes - Singapore",
+          "url" : "https:\/\/www.straitstimes.com\/news\/singapore\/rss.xml"
+        }
+      ],
+      "name" : "News-Others"
     },
     {
       "feeds" : [
@@ -344,15 +357,6 @@
       ],
       "icon" : "newspaper",
       "name" : "VR-AR-XR"
-    },
-    {
-      "feeds" : [
-        {
-          "title" : "Straitstimes - Singapore",
-          "url" : "https:\/\/www.straitstimes.com\/news\/singapore\/rss.xml"
-        }
-      ],
-      "name" : "News-Others"
     }
   ],
   "lastUpdated" : "2025-12-31",
