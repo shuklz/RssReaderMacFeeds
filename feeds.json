@@ -175,6 +175,16 @@
     {
       "feeds" : [
         {
+          "title" : "BusinessTimes",
+          "url" : "https:\/\/www.businesstimes.com.sg\/rss\/singapore"
+        }
+      ],
+      "icon" : "newspaper",
+      "name" : "News - Singapore"
+    },
+    {
+      "feeds" : [
+        {
           "title" : "Straitstimes - Singapore",
           "url" : "https:\/\/www.straitstimes.com\/news\/singapore\/rss.xml"
         }
@@ -204,6 +214,10 @@
     },
     {
       "feeds" : [
+        {
+          "title" : "Arsenal",
+          "url" : "https:\/\/arseblog.com\/feed"
+        },
         {
           "description" : "Latest sports news from BBC",
           "title" : "BBC Sport",
@@ -237,10 +251,6 @@
         {
           "title" : "Manchester City",
           "url" : "https:\/\/bitterandblue.sbnation.com\/rss\/current.xml"
-        },
-        {
-          "title" : "Arsenal",
-          "url" : "https:\/\/arseblog.com\/feed"
         }
       ],
       "icon" : "sportscourt",
@@ -359,6 +369,6 @@
       "name" : "VR-AR-XR"
     }
   ],
-  "lastUpdated" : "2025-12-31",
+  "lastUpdated" : "2026-01-01",
   "version" : "1.0"
 }
