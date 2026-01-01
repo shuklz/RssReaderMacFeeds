@@ -159,6 +159,10 @@
         {
           "title" : "Seattletimes",
           "url" : "https:\/\/www.seattletimes.com\/feed\/"
+        },
+        {
+          "title" : "Washingtontimes",
+          "url" : "https:\/\/www.washingtontimes.com\/rss\/headlines\/news\/world\/"
         }
       ],
       "icon" : "newspaper",
