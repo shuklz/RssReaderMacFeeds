@@ -167,10 +167,6 @@
         {
           "title" : "Washingtontimes",
           "url" : "https:\/\/www.washingtontimes.com\/rss\/headlines\/news\/world\/"
-        },
-        {
-          "title" : "CNN",
-          "url" : "http:\/\/rss.cnn.com\/rss\/cnn_topstories.rss"
         }
       ],
       "icon" : "newspaper",
@@ -241,6 +237,10 @@
         {
           "title" : "Manchester City",
           "url" : "https:\/\/bitterandblue.sbnation.com\/rss\/current.xml"
+        },
+        {
+          "title" : "Arsenal",
+          "url" : "https:\/\/arseblog.com\/feed"
         }
       ],
       "icon" : "sportscourt",
