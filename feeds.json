@@ -163,6 +163,10 @@
         {
           "title" : "Washingtontimes",
           "url" : "https:\/\/www.washingtontimes.com\/rss\/headlines\/news\/world\/"
+        },
+        {
+          "title" : "Nytimes",
+          "url" : "https:\/\/rss.nytimes.com\/services\/xml\/rss\/nyt\/World.xml"
         }
       ],
       "icon" : "newspaper",
@@ -340,6 +344,12 @@
       ],
       "icon" : "newspaper",
       "name" : "VR-AR-XR"
+    },
+    {
+      "feeds" : [
+
+      ],
+      "name" : "News-Others"
     }
   ],
   "lastUpdated" : "2025-12-31",
