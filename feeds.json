@@ -23,6 +23,13 @@
     },
     {
       "feeds" : [
+
+      ],
+      "icon" : "film",
+      "name" : "Cartoon"
+    },
+    {
+      "feeds" : [
         {
           "description" : "Music, film, TV, and culture",
           "title" : "Rolling Stone",
@@ -40,12 +47,12 @@
     {
       "feeds" : [
         {
-          "title" : "Minecraft",
-          "url" : "https:\/\/rss-bridge.org\/bridge01\/?action=display&bridge=MinecraftBridge&category=News&format=Atom"
-        },
-        {
           "title" : "GameSpot",
           "url" : "https:\/\/www.gamespot.com\/feeds\/mashup"
+        },
+        {
+          "title" : "Minecraft",
+          "url" : "https:\/\/rss-bridge.org\/bridge01\/?action=display&bridge=MinecraftBridge&category=News&format=Atom"
         },
         {
           "title" : "PC Gamer",
@@ -98,6 +105,10 @@
           "url" : "https:\/\/hindi.oneindia.com\/rss\/hindi-news-fb.xml"
         },
         {
+          "title" : "Patrika",
+          "url" : "https:\/\/cms.patrika.com\/googlefeed\/blog\/category\/world-news"
+        },
+        {
           "title" : "Scroll.in",
           "url" : "https:\/\/feeds.feedburner.com\/ScrollinArticles.rss"
         },
@@ -110,8 +121,16 @@
           "url" : "https:\/\/indianexpress.com\/feed\/"
         },
         {
+          "title" : "The Print",
+          "url" : "https:\/\/theprint.in\/category\/world\/feed\/"
+        },
+        {
           "title" : "The Quint",
           "url" : "https:\/\/prod-qt-images.s3.amazonaws.com\/production\/thequint\/feed.xml"
+        },
+        {
+          "title" : "The Week",
+          "url" : "https:\/\/www.theweek.in\/news\/world.feeds.rss.xml"
         },
         {
           "title" : "TOI",
@@ -142,20 +161,8 @@
           "url" : "https:\/\/timesofindia.indiatimes.com\/rssfeeds\/-2128838597.cms"
         },
         {
-          "title" : "The Print",
-          "url" : "https:\/\/theprint.in\/category\/world\/feed\/"
-        },
-        {
-          "title" : "The Week",
-          "url" : "https:\/\/www.theweek.in\/news\/world.feeds.rss.xml"
-        },
-        {
           "title" : "Tribune India",
           "url" : "https:\/\/publish.tribuneindia.com\/newscategory\/world\/feed\/"
-        },
-        {
-          "title" : "Patrika",
-          "url" : "https:\/\/cms.patrika.com\/googlefeed\/blog\/category\/world-news"
         }
       ],
       "icon" : "newspaper",
@@ -179,6 +186,10 @@
           "url" : "https:\/\/feeds.bbci.co.uk\/news\/rss.xml"
         },
         {
+          "title" : "Daily Mirror",
+          "url" : "https:\/\/www.mirror.co.uk\/news\/world-news\/?service=rss"
+        },
+        {
           "description" : "Sky News - Top Stories",
           "title" : "Sky News",
           "url" : "https:\/\/feeds.skynews.com\/feeds\/rss\/home.xml"
@@ -191,10 +202,6 @@
         {
           "title" : "The Sun",
           "url" : "https:\/\/www.thesun.co.uk\/news\/worldnews\/feed\/"
-        },
-        {
-          "title" : "Daily Mirror",
-          "url" : "https:\/\/www.mirror.co.uk\/news\/world-news\/?service=rss"
         }
       ],
       "icon" : "newspaper",
@@ -259,12 +266,12 @@
     {
       "feeds" : [
         {
-          "title" : "Straitstimes - Singapore",
-          "url" : "https:\/\/www.straitstimes.com\/news\/singapore\/rss.xml"
-        },
-        {
           "title" : "South China Morning Post",
           "url" : "https:\/\/www.scmp.com\/rss\/91\/feed\/"
+        },
+        {
+          "title" : "Straitstimes - Singapore",
+          "url" : "https:\/\/www.straitstimes.com\/news\/singapore\/rss.xml"
         }
       ],
       "name" : "News-Others"
@@ -329,6 +336,10 @@
         {
           "title" : "Manchester City",
           "url" : "https:\/\/bitterandblue.sbnation.com\/rss\/current.xml"
+        },
+        {
+          "title" : "The Hindu - IPL",
+          "url" : "https:\/\/sportstar.thehindu.com\/cricket\/ipl\/feeder\/default.rss"
         }
       ],
       "icon" : "sportscourt",
@@ -445,13 +456,6 @@
       ],
       "icon" : "newspaper",
       "name" : "VR-AR-XR"
-    },
-    {
-      "feeds" : [
-
-      ],
-      "icon" : "film",
-      "name" : "Cartoon"
     }
   ],
   "lastUpdated" : "2026-01-02",
