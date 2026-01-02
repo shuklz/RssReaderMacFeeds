@@ -40,6 +40,16 @@
     {
       "feeds" : [
         {
+          "title" : "Crafty - Minecraft",
+          "url" : "https:\/\/crafty.gg\/feed"
+        }
+      ],
+      "icon" : "gamecontroller",
+      "name" : "Gaming"
+    },
+    {
+      "feeds" : [
+        {
           "title" : "ABP News",
           "url" : "https:\/\/news.abplive.com\/home\/feed"
         },
@@ -367,16 +377,6 @@
       ],
       "icon" : "newspaper",
       "name" : "VR-AR-XR"
-    },
-    {
-      "feeds" : [
-        {
-          "title" : "Crafty - Minecraft",
-          "url" : "https:\/\/crafty.gg\/feed"
-        }
-      ],
-      "icon" : "gamecontroller",
-      "name" : "Gaming"
     }
   ],
   "lastUpdated" : "2026-01-02",
