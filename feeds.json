@@ -370,10 +370,7 @@
     },
     {
       "feeds" : [
-        {
-          "title" : "Dot Esports",
-          "url" : "https:\/\/dotesports.com\/minecraft\/feed"
-        }
+
       ],
       "icon" : "gamecontroller",
       "name" : "Gaming"
