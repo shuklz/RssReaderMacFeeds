@@ -39,14 +39,7 @@
     },
     {
       "feeds" : [
-        {
-          "title" : "Crafty - Minecraft",
-          "url" : "https:\/\/crafty.gg\/feed"
-        },
-        {
-          "title" : "MelonCube - Minecraft",
-          "url" : "https:\/\/www.meloncube.net\/blog\/feed\/"
-        }
+
       ],
       "icon" : "gamecontroller",
       "name" : "Gaming"
