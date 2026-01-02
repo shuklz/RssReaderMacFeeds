@@ -128,6 +128,22 @@
         {
           "title" : "TOI - Mumbai",
           "url" : "https:\/\/timesofindia.indiatimes.com\/rssfeeds\/-2128838597.cms"
+        },
+        {
+          "title" : "The Print",
+          "url" : "https:\/\/theprint.in\/category\/world\/feed\/"
+        },
+        {
+          "title" : "The Week",
+          "url" : "https:\/\/www.theweek.in\/news\/world.feeds.rss.xml"
+        },
+        {
+          "title" : "Tribune India",
+          "url" : "https:\/\/publish.tribuneindia.com\/newscategory\/world\/feed\/"
+        },
+        {
+          "title" : "Patrika",
+          "url" : "https:\/\/cms.patrika.com\/googlefeed\/blog\/category\/world-news"
         }
       ],
       "icon" : "newspaper",
@@ -159,6 +175,14 @@
           "description" : "Latest UK news from The Guardian",
           "title" : "The Guardian - UK",
           "url" : "https:\/\/www.theguardian.com\/uk\/rss"
+        },
+        {
+          "title" : "The Sun",
+          "url" : "https:\/\/www.thesun.co.uk\/news\/worldnews\/feed\/"
+        },
+        {
+          "title" : "Daily Mirror",
+          "url" : "https:\/\/www.mirror.co.uk\/news\/world-news\/?service=rss"
         }
       ],
       "icon" : "newspaper",
@@ -187,6 +211,42 @@
         {
           "title" : "Washingtontimes",
           "url" : "https:\/\/www.washingtontimes.com\/rss\/headlines\/news\/world\/"
+        },
+        {
+          "title" : "CNBC",
+          "url" : "https:\/\/www.cnbc.com\/id\/100727362\/device\/rss\/rss.html"
+        },
+        {
+          "title" : "ABC News",
+          "url" : "https:\/\/abcnews.go.com\/abcnews\/internationalheadlines"
+        },
+        {
+          "title" : "Al Jazeera",
+          "url" : "https:\/\/www.aljazeera.com\/xml\/rss\/all.xml"
+        },
+        {
+          "title" : "CBS News",
+          "url" : "https:\/\/www.cbsnews.com\/latest\/rss\/world"
+        },
+        {
+          "title" : "BuzzFeed",
+          "url" : "https:\/\/www.buzzfeed.com\/in\/world.xml"
+        },
+        {
+          "title" : "The Washington Post",
+          "url" : "https:\/\/feeds.washingtonpost.com\/rss\/world"
+        },
+        {
+          "title" : "Los Angeles Times",
+          "url" : "https:\/\/www.latimes.com\/world-nation\/rss2.0.xml#nt=1col-7030col1"
+        },
+        {
+          "title" : "TIME",
+          "url" : "https:\/\/feeds.feedburner.com\/time\/world"
+        },
+        {
+          "title" : "Chicago Tribune",
+          "url" : "https:\/\/www.chicagotribune.com\/news\/world\/feed\/"
         }
       ],
       "icon" : "newspaper",
@@ -197,6 +257,10 @@
         {
           "title" : "Straitstimes - Singapore",
           "url" : "https:\/\/www.straitstimes.com\/news\/singapore\/rss.xml"
+        },
+        {
+          "title" : "South China Morning Post",
+          "url" : "https:\/\/www.scmp.com\/rss\/91\/feed\/"
         }
       ],
       "name" : "News-Others"
@@ -377,6 +441,20 @@
       ],
       "icon" : "newspaper",
       "name" : "VR-AR-XR"
+    },
+    {
+      "feeds" : [
+        {
+          "title" : "Cartoon Brew",
+          "url" : "https:\/\/www.cartoonbrew.com\/feed"
+        },
+        {
+          "title" : "Laugh with Rama",
+          "url" : "https:\/\/ramatoons.wordpress.com\/feed\/"
+        }
+      ],
+      "icon" : "film",
+      "name" : "Cartoon"
     }
   ],
   "lastUpdated" : "2026-01-02",
