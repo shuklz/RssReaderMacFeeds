@@ -191,9 +191,33 @@
     {
       "feeds" : [
         {
+          "title" : "ABC News",
+          "url" : "https:\/\/abcnews.go.com\/abcnews\/internationalheadlines"
+        },
+        {
+          "title" : "Al Jazeera",
+          "url" : "https:\/\/www.aljazeera.com\/xml\/rss\/all.xml"
+        },
+        {
           "description" : "Associated Press Top Headlines",
           "title" : "AP News",
           "url" : "https:\/\/feedx.net\/rss\/ap.xml"
+        },
+        {
+          "title" : "CBS News",
+          "url" : "https:\/\/www.cbsnews.com\/latest\/rss\/world"
+        },
+        {
+          "title" : "Chicago Tribune",
+          "url" : "https:\/\/www.chicagotribune.com\/news\/world\/feed\/"
+        },
+        {
+          "title" : "CNBC",
+          "url" : "https:\/\/www.cnbc.com\/id\/100727362\/device\/rss\/rss.html"
+        },
+        {
+          "title" : "Los Angeles Times",
+          "url" : "https:\/\/www.latimes.com\/world-nation\/rss2.0.xml#nt=1col-7030col1"
         },
         {
           "description" : "NPR News Headlines",
@@ -209,44 +233,12 @@
           "url" : "https:\/\/www.seattletimes.com\/feed\/"
         },
         {
-          "title" : "Washingtontimes",
-          "url" : "https:\/\/www.washingtontimes.com\/rss\/headlines\/news\/world\/"
-        },
-        {
-          "title" : "CNBC",
-          "url" : "https:\/\/www.cnbc.com\/id\/100727362\/device\/rss\/rss.html"
-        },
-        {
-          "title" : "ABC News",
-          "url" : "https:\/\/abcnews.go.com\/abcnews\/internationalheadlines"
-        },
-        {
-          "title" : "Al Jazeera",
-          "url" : "https:\/\/www.aljazeera.com\/xml\/rss\/all.xml"
-        },
-        {
-          "title" : "CBS News",
-          "url" : "https:\/\/www.cbsnews.com\/latest\/rss\/world"
-        },
-        {
-          "title" : "BuzzFeed",
-          "url" : "https:\/\/www.buzzfeed.com\/in\/world.xml"
-        },
-        {
           "title" : "The Washington Post",
           "url" : "https:\/\/feeds.washingtonpost.com\/rss\/world"
         },
         {
-          "title" : "Los Angeles Times",
-          "url" : "https:\/\/www.latimes.com\/world-nation\/rss2.0.xml#nt=1col-7030col1"
-        },
-        {
-          "title" : "TIME",
-          "url" : "https:\/\/feeds.feedburner.com\/time\/world"
-        },
-        {
-          "title" : "Chicago Tribune",
-          "url" : "https:\/\/www.chicagotribune.com\/news\/world\/feed\/"
+          "title" : "Washingtontimes",
+          "url" : "https:\/\/www.washingtontimes.com\/rss\/headlines\/news\/world\/"
         }
       ],
       "icon" : "newspaper",
@@ -445,12 +437,8 @@
     {
       "feeds" : [
         {
-          "title" : "Cartoon Brew",
-          "url" : "https:\/\/www.cartoonbrew.com\/feed"
-        },
-        {
-          "title" : "Laugh with Rama",
-          "url" : "https:\/\/ramatoons.wordpress.com\/feed\/"
+          "title" : "B.C. by Johnny Hart",
+          "url" : "https:\/\/www.comicsrss.com\/rss\/bc.rss"
         }
       ],
       "icon" : "film",
