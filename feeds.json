@@ -370,7 +370,10 @@
     },
     {
       "feeds" : [
-
+        {
+          "title" : "Crafty - Minecraft",
+          "url" : "https:\/\/crafty.gg\/feed"
+        }
       ],
       "icon" : "gamecontroller",
       "name" : "Gaming"
