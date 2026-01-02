@@ -42,6 +42,18 @@
         {
           "title" : "Minecraft",
           "url" : "https:\/\/rss-bridge.org\/bridge01\/?action=display&bridge=MinecraftBridge&category=News&format=Atom"
+        },
+        {
+          "title" : "GameSpot",
+          "url" : "https:\/\/www.gamespot.com\/feeds\/mashup"
+        },
+        {
+          "title" : "PC Gamer",
+          "url" : "https:\/\/www.pcgamer.com\/rss\/"
+        },
+        {
+          "title" : "TechRaptor",
+          "url" : "https:\/\/techraptor.net\/news\/feed"
         }
       ],
       "icon" : "gamecontroller",
@@ -436,10 +448,7 @@
     },
     {
       "feeds" : [
-        {
-          "title" : "B.C. by Johnny Hart",
-          "url" : "https:\/\/www.comicsrss.com\/rss\/bc.rss"
-        }
+
       ],
       "icon" : "film",
       "name" : "Cartoon"
