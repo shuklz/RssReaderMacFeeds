@@ -365,6 +365,10 @@
         {
           "title" : "XR Today",
           "url" : "https:\/\/www.xrtoday.com\/feed\/"
+        },
+        {
+          "title" : "Google - XR\/AR",
+          "url" : "https:\/\/blog.google\/technology\/xr-ar\/rss\/"
         }
       ],
       "icon" : "newspaper",
