@@ -168,6 +168,10 @@
         {
           "title" : "BusinessTimes",
           "url" : "https:\/\/www.businesstimes.com.sg\/rss\/singapore"
+        },
+        {
+          "title" : "Straitstimes - Singapore",
+          "url" : "https:\/\/www.straitstimes.com\/news\/singapore\/rss.xml"
         }
       ],
       "icon" : "newspaper",
@@ -263,10 +267,6 @@
         {
           "title" : "South China Morning Post",
           "url" : "https:\/\/www.scmp.com\/rss\/91\/feed\/"
-        },
-        {
-          "title" : "Straitstimes - Singapore",
-          "url" : "https:\/\/www.straitstimes.com\/news\/singapore\/rss.xml"
         }
       ],
       "name" : "News-Others"
