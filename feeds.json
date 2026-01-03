@@ -377,14 +377,6 @@
         {
           "title" : "AR\/VR Journey",
           "url" : "https:\/\/arvrjourney.com\/feed"
-        },
-        {
-          "title" : "ARPost",
-          "url" : "https:\/\/arpost.co\/category\/news\/feed\/"
-        },
-        {
-          "title" : "Equal Entry",
-          "url" : "https:\/\/equalentry.com\/category\/ar-vr-xr\/feed\/"
         }
       ],
       "icon" : "newspaper",
