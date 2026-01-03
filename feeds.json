@@ -287,10 +287,14 @@
           "description" : "Breaking science news",
           "title" : "Science Daily",
           "url" : "https:\/\/www.sciencedaily.com\/rss\/all.xml"
+        },
+        {
+          "title" : "Geekwire",
+          "url" : "https:\/\/www.geekwire.com\/feed\/"
         }
       ],
       "icon" : "atom",
-      "name" : "Science"
+      "name" : "Science & Technology"
     },
     {
       "feeds" : [
