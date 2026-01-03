@@ -401,14 +401,6 @@
     {
       "feeds" : [
         {
-          "title" : "Hypergrid Business",
-          "url" : "https:\/\/www.hypergridbusiness.com\/feed\/"
-        },
-        {
-          "title" : "Immersive Learning News",
-          "url" : "https:\/\/www.immersivelearning.news\/feed\/"
-        },
-        {
           "title" : "Oculus VR News",
           "url" : "https:\/\/www.ovrnews.com\/feed\/"
         },
