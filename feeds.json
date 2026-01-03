@@ -393,10 +393,6 @@
           "description" : "Tech, science, and culture",
           "title" : "Wired",
           "url" : "https:\/\/www.wired.com\/feed\/rss"
-        },
-        {
-          "title" : "ZDNET",
-          "url" : "https:\/\/www.zdnet.com\/news\/rss.xml"
         }
       ],
       "icon" : "desktopcomputer",
