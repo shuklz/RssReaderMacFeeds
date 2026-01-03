@@ -343,16 +343,12 @@
     {
       "feeds" : [
         {
-          "title" : "Oculus VR News",
-          "url" : "https:\/\/www.ovrnews.com\/feed\/"
+          "title" : "AR\/VR Journey",
+          "url" : "https:\/\/arvrjourney.com\/feed"
         },
         {
           "title" : "Road to VR",
           "url" : "https:\/\/www.roadtovr.com\/feed\/"
-        },
-        {
-          "title" : "TechCrunch Virtual Reality",
-          "url" : "https:\/\/techcrunch.com\/tag\/virtual-reality\/feed\/"
         },
         {
           "title" : "The Ghost Howls",
@@ -363,20 +359,12 @@
           "url" : "https:\/\/www.uploadvr.com\/feed\/"
         },
         {
-          "title" : "VR Bites",
-          "url" : "https:\/\/vrbites.com\/feed\/"
-        },
-        {
           "title" : "VR Today Magazine",
           "url" : "https:\/\/vrtodaymagazine.com\/feed\/"
         },
         {
           "title" : "XR Today",
           "url" : "https:\/\/www.xrtoday.com\/feed\/"
-        },
-        {
-          "title" : "AR\/VR Journey",
-          "url" : "https:\/\/arvrjourney.com\/feed"
         }
       ],
       "icon" : "newspaper",
