@@ -8,11 +8,6 @@
           "url" : "https:\/\/feeds.bloomberg.com\/markets\/news.rss"
         },
         {
-          "description" : "Global business and finance",
-          "title" : "Financial Times",
-          "url" : "https:\/\/www.ft.com\/rss\/home"
-        },
-        {
           "description" : "Economics and finance",
           "title" : "The Economist",
           "url" : "https:\/\/www.economist.com\/finance-and-economics\/rss.xml"
@@ -458,6 +453,6 @@
       "name" : "VR-AR-XR"
     }
   ],
-  "lastUpdated" : "2026-01-02",
+  "lastUpdated" : "2026-01-03",
   "version" : "1.0"
 }
