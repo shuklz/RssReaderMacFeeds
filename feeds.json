@@ -351,6 +351,10 @@
         {
           "title" : "The Hindu - IPL",
           "url" : "https:\/\/sportstar.thehindu.com\/cricket\/ipl\/feeder\/default.rss"
+        },
+        {
+          "title" : "NDTV-Sports",
+          "url" : "https:\/\/sports.ndtv.com\/rss\/all"
         }
       ],
       "icon" : "sportscourt",
