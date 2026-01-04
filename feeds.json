@@ -104,6 +104,10 @@
           "url" : "https:\/\/cms.patrika.com\/googlefeed\/blog\/category\/world-news"
         },
         {
+          "title" : "RepublicWorld-Breaking",
+          "url" : "https:\/\/www.republicworld.com\/rss\/breaking.xml"
+        },
+        {
           "title" : "Scroll.in",
           "url" : "https:\/\/feeds.feedburner.com\/ScrollinArticles.rss"
         },
@@ -158,10 +162,6 @@
         {
           "title" : "Tribune India",
           "url" : "https:\/\/publish.tribuneindia.com\/newscategory\/world\/feed\/"
-        },
-        {
-          "title" : "RepublicWorld-Breaking",
-          "url" : "https:\/\/www.republicworld.com\/rss\/breaking.xml"
         }
       ],
       "icon" : "newspaper",
@@ -295,10 +295,6 @@
           "description" : "Breaking science news",
           "title" : "Science Daily",
           "url" : "https:\/\/www.sciencedaily.com\/rss\/all.xml"
-        },
-        {
-          "title" : "RepublicWorld-Tech",
-          "url" : "https:\/\/www.republicworld.com\/rss\/videos\/tech.xml"
         }
       ],
       "icon" : "atom",
@@ -345,12 +341,12 @@
           "url" : "https:\/\/bitterandblue.sbnation.com\/rss\/current.xml"
         },
         {
-          "title" : "The Hindu - IPL",
-          "url" : "https:\/\/sportstar.thehindu.com\/cricket\/ipl\/feeder\/default.rss"
-        },
-        {
           "title" : "RepublicWorld-Cricket",
           "url" : "https:\/\/www.republicworld.com\/rss\/cricket.xml"
+        },
+        {
+          "title" : "The Hindu - IPL",
+          "url" : "https:\/\/sportstar.thehindu.com\/cricket\/ipl\/feeder\/default.rss"
         }
       ],
       "icon" : "sportscourt",
