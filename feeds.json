@@ -295,6 +295,10 @@
           "description" : "Breaking science news",
           "title" : "Science Daily",
           "url" : "https:\/\/www.sciencedaily.com\/rss\/all.xml"
+        },
+        {
+          "title" : "RepublicWorld-Tech",
+          "url" : "https:\/\/www.republicworld.com\/rss\/videos\/tech.xml"
         }
       ],
       "icon" : "atom",
