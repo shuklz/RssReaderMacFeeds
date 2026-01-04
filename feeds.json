@@ -158,6 +158,10 @@
         {
           "title" : "Tribune India",
           "url" : "https:\/\/publish.tribuneindia.com\/newscategory\/world\/feed\/"
+        },
+        {
+          "title" : "NewsLaundry",
+          "url" : "https:\/\/www.newslaundry.com\/stories.rss?time-period=last-7-days&exclude-section-ids=15848,15817"
         }
       ],
       "icon" : "newspaper",
@@ -337,16 +341,16 @@
           "url" : "https:\/\/bitterandblue.sbnation.com\/rss\/current.xml"
         },
         {
+          "title" : "NDTV-Sports",
+          "url" : "https:\/\/sports.ndtv.com\/rss\/all"
+        },
+        {
           "title" : "RepublicWorld-Cricket",
           "url" : "https:\/\/www.republicworld.com\/rss\/cricket.xml"
         },
         {
           "title" : "The Hindu - IPL",
           "url" : "https:\/\/sportstar.thehindu.com\/cricket\/ipl\/feeder\/default.rss"
-        },
-        {
-          "title" : "NDTV-Sports",
-          "url" : "https:\/\/sports.ndtv.com\/rss\/all"
         }
       ],
       "icon" : "sportscourt",
