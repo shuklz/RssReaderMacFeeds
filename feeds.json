@@ -158,6 +158,10 @@
         {
           "title" : "Tribune India",
           "url" : "https:\/\/publish.tribuneindia.com\/newscategory\/world\/feed\/"
+        },
+        {
+          "title" : "RepublicWorld-Breaking",
+          "url" : "https:\/\/www.republicworld.com\/rss\/breaking.xml"
         }
       ],
       "icon" : "newspaper",
@@ -274,6 +278,10 @@
     {
       "feeds" : [
         {
+          "title" : "Geekwire",
+          "url" : "https:\/\/www.geekwire.com\/feed\/"
+        },
+        {
           "description" : "Latest research from Nature",
           "title" : "Nature News",
           "url" : "https:\/\/www.nature.com\/nature.rss"
@@ -287,10 +295,6 @@
           "description" : "Breaking science news",
           "title" : "Science Daily",
           "url" : "https:\/\/www.sciencedaily.com\/rss\/all.xml"
-        },
-        {
-          "title" : "Geekwire",
-          "url" : "https:\/\/www.geekwire.com\/feed\/"
         }
       ],
       "icon" : "atom",
@@ -351,6 +355,10 @@
           "url" : "https:\/\/arvrjourney.com\/feed"
         },
         {
+          "title" : "Google - XR\/AR",
+          "url" : "https:\/\/blog.google\/technology\/xr-ar\/rss\/"
+        },
+        {
           "title" : "Road to VR",
           "url" : "https:\/\/www.roadtovr.com\/feed\/"
         },
@@ -369,16 +377,12 @@
         {
           "title" : "XR Today",
           "url" : "https:\/\/www.xrtoday.com\/feed\/"
-        },
-        {
-          "title" : "Google - XR\/AR",
-          "url" : "https:\/\/blog.google\/technology\/xr-ar\/rss\/"
         }
       ],
       "icon" : "newspaper",
       "name" : "VR-AR-XR"
     }
   ],
-  "lastUpdated" : "2026-01-03",
+  "lastUpdated" : "2026-01-04",
   "version" : "1.0"
 }
