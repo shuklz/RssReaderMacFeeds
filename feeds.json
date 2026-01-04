@@ -359,10 +359,6 @@
     {
       "feeds" : [
         {
-          "title" : "AR\/VR Journey .",
-          "url" : "https:\/\/arvrjourney.com\/feed"
-        },
-        {
           "title" : "Google - XR\/AR",
           "url" : "https:\/\/blog.google\/technology\/xr-ar\/rss\/"
         },
