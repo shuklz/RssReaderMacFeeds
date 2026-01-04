@@ -26,6 +26,10 @@
     {
       "feeds" : [
         {
+          "title" : "RepublicWorld-Bollywood",
+          "url" : "https:\/\/www.republicworld.com\/rss\/entertainment\/bollywood.xml"
+        },
+        {
           "description" : "Music, film, TV, and culture",
           "title" : "Rolling Stone",
           "url" : "https:\/\/www.rollingstone.com\/feed\/"
@@ -34,10 +38,6 @@
           "description" : "Entertainment industry news",
           "title" : "Variety",
           "url" : "https:\/\/variety.com\/feed\/"
-        },
-        {
-          "title" : "RepublicWorld-Bollywood",
-          "url" : "https:\/\/www.republicworld.com\/rss\/entertainment\/bollywood.xml"
         }
       ],
       "icon" : "film",
@@ -359,7 +359,7 @@
     {
       "feeds" : [
         {
-          "title" : "AR\/VR Journey",
+          "title" : "AR\/VR Journey .",
           "url" : "https:\/\/arvrjourney.com\/feed"
         },
         {
