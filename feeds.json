@@ -34,6 +34,10 @@
           "description" : "Entertainment industry news",
           "title" : "Variety",
           "url" : "https:\/\/variety.com\/feed\/"
+        },
+        {
+          "title" : "RepublicWorld-Bollywood",
+          "url" : "https:\/\/www.republicworld.com\/rss\/entertainment\/bollywood.xml"
         }
       ],
       "icon" : "film",
@@ -365,10 +369,6 @@
         {
           "title" : "Road to VR",
           "url" : "https:\/\/www.roadtovr.com\/feed\/"
-        },
-        {
-          "title" : "The Ghost Howls",
-          "url" : "https:\/\/skarredghost.com\/feed\/"
         },
         {
           "title" : "Upload VR",
