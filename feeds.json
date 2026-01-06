@@ -274,8 +274,24 @@
     {
       "feeds" : [
         {
+          "title" : "9t05Mac",
+          "url" : "https:\/\/9to5mac.com\/guides\/mac\/feed\/"
+        },
+        {
+          "title" : "CultOfMac",
+          "url" : "https:\/\/www.cultofmac.com\/feed"
+        },
+        {
           "title" : "Geekwire",
           "url" : "https:\/\/www.geekwire.com\/feed\/"
+        },
+        {
+          "title" : "MacMost",
+          "url" : "https:\/\/macmost.com\/feed"
+        },
+        {
+          "title" : "MacStories",
+          "url" : "https:\/\/www.macstories.net\/feed\/"
         },
         {
           "description" : "Latest research from Nature",
@@ -288,33 +304,17 @@
           "url" : "https:\/\/www.newscientist.com\/feed\/home\/"
         },
         {
-          "description" : "Breaking science news",
-          "title" : "Science Daily",
-          "url" : "https:\/\/www.sciencedaily.com\/rss\/all.xml"
-        },
-        {
           "title" : "Open AI",
           "url" : "https:\/\/openai.com\/news\/rss.xml"
-        },
-        {
-          "title" : "9t05Mac",
-          "url" : "https:\/\/9to5mac.com\/guides\/mac\/feed\/"
         },
         {
           "title" : "OSXDaily",
           "url" : "https:\/\/osxdaily.com\/category\/mac-os-x\/feed\/"
         },
         {
-          "title" : "CultOfMac",
-          "url" : "https:\/\/www.cultofmac.com\/feed"
-        },
-        {
-          "title" : "MacStories",
-          "url" : "https:\/\/www.macstories.net\/feed\/"
-        },
-        {
-          "title" : "MacMost",
-          "url" : "https:\/\/macmost.com\/feed"
+          "description" : "Breaking science news",
+          "title" : "Science Daily",
+          "url" : "https:\/\/www.sciencedaily.com\/rss\/all.xml"
         }
       ],
       "icon" : "atom",
